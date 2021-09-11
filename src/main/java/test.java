@@ -14,5 +14,8 @@ public class test {
         System.out.println("hello4");
         System.out.println("hello5");
         System.out.println("hello");
+        System.out.println(
+                2222
+        );
     }
 }
